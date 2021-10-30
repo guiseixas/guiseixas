@@ -17,7 +17,7 @@ Hey, hope u are ok. My name is Guilherme Seixas, I'm 18 years old and I'm a stud
   
   ##
   
-  Connect with me:
+  ### Connect with me:
   
   <div>
   <a href="https://www.instagram.com/gseixs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
