@@ -20,7 +20,6 @@ Hey, hope u are ok. My name is Guilherme Seixas, I'm 18 years old and I'm a stud
   ### Connect with me:
   
   <div>
-  <a href="https://www.instagram.com/gseixs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermesantoseixas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-seixas-382661211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
