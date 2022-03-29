@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Hey, hope u are ok. My name is Guilherme Seixas, I'm 18 years old and I'm a student of graduation of Computer Science at the Federal University of Ceará, Brazil. :sparkles:
+Hey, hope u are ok. My name is Guilherme Seixas, I'm 19 years old and I'm a student of graduation of Computer Science at the Federal University of Ceará, Brazil. :sparkles:
 
 <div>
   <a href="https://github.com/guiseixas">
