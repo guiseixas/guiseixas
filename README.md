@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Hey, my name is Guilherme Seixas, I'm 19 years old and I'm a student of graduation of Computer Science at the Federal University of Ceará, Brazil.
+Hey, my name is Guilherme Seixas, I'm 20 years old and I'm a student of graduation of Computer Science at the Federal University of Ceará, Brazil.
 
 <div>
   <a href="https://github.com/guiseixas">
@@ -23,7 +23,7 @@ Hey, my name is Guilherme Seixas, I'm 19 years old and I'm a student of graduati
   
   ##
   
-  ### Connect with me:
+  ### Connect with me :):
   
   <div>
   <a href = "mailto:guilhermesantoseixas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
