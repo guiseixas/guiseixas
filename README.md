@@ -1,6 +1,26 @@
-### Hi there :wave:
+# Hello, I'm Guilherme 👋
 
-Hey, my name is Guilherme Seixas, I'm 20 years old and I'm a student of graduation of Computer Science at the Federal University of Ceará, Brazil.
+I am a Fullstack Developer with expertise in Java, Spring Boot, and Angular. With a strong foundation in both front-end and back-end development, I am passionate about creating responsive, user-friendly web applications and API's that deliver value to users.
+
+## 🚀 Skills
+
+- **Languages:** Java, TypeScript, HTML, CSS, JavaScript, C/C++, Haskell, GO
+
+- **Frameworks:** Spring Boot, Angular, Bootstrap
+
+- **Databases:** MySQL, PostgreSQL
+
+- **Tools:** Git, VS Code, Eclipse, IntelliJ IDEA, JIRA, Bitbucket
+
+## 🌟 Projects
+
+Here are a few highlights from my portfolio:
+
+- Movie Catalog([Back-end](https://github.com/guiseixas/catalagofilmes-spring) / [Front-end](https://github.com/guiseixas/catalagofilmes-spring)): A full-stack web application using Spring Boot and Angular that manage a movie catalog being possible to create, update, edit and delete movies. 
+
+- [Vendas API](https://github.com/guiseixas/vendas-spring): A RESTful API built with Spring Boot that manage a sales system with customers, products and orders.
+
+- [Java Project](https://github.com/guiseixas/javaproject): A pure Java project developed using programming logic and object-oriented programming that improved my Java Skills.
 
 <div>
   <a href="https://github.com/guiseixas">
@@ -8,24 +28,9 @@ Hey, my name is Guilherme Seixas, I'm 20 years old and I'm a student of graduati
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiseixas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="icon-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="icon-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="icon-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="icon-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="icon-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="icon-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="icon-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" />
-      <img align="center" alt="icon-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" />
-        <img align="center" alt="icon-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" />
-</div>
-  
-  ##
-  
-  ### Connect with me :):
-  
-  <div>
-  <a href = "mailto:guilhermesantoseixas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-seixas-382661211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  </div>
+## 📫 Contact
+
+Feel free to reach out to me at guilhermesantoseixas@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-seixas-382661211/) to discuss potential collaboration opportunities.
+
+Thanks for stopping by! 😊
+
