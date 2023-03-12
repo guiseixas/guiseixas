@@ -16,7 +16,7 @@ I am a Fullstack Developer with expertise in Java, Spring Boot, and Angular. Wit
 
 Here are a few highlights from my portfolio:
 
-- Movie Catalog([Back-end](https://github.com/guiseixas/catalagofilmes-spring) / [Front-end](https://github.com/guiseixas/catalagofilmes-spring)): A full-stack web application using Spring Boot and Angular that manage a movie catalog being possible to create, update, edit and delete movies. 
+- Movie Catalog([Back-end](https://github.com/guiseixas/catalagofilmes-spring) / [Front-end](https://github.com/guiseixas/catalogofilmes-angular)): A full-stack web application using Spring Boot and Angular that manage a movie catalog being possible to create, update, edit and delete movies. 
 
 - [Vendas API](https://github.com/guiseixas/vendas-spring): A RESTful API built with Spring Boot that manage a sales system with customers, products and orders.
 
